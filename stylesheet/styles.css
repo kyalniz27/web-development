@@ -1,0 +1,48 @@
+/*
+    Styling html selectors.
+*/
+
+h1{
+    font-size: 50px;
+    text-align: center;
+    margin: 0;
+    padding: 20px 0;
+    color: deepskyblue;
+    text-shadow: 20px 30px 4px black;
+}
+
+p{
+    color: black;
+    font-size: 30px;
+    border: 2px solid black;
+}
+
+#items-headline{
+    text-align: left;
+    font-size: 40px;
+}
+
+.item{
+    color:red;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 1;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+body{
+    margin: 0 auto;
+    padding: 0 20px 20px 20px;
+    width: 600px;
+    border: 4px dashed black;
+    background-color: yellow;
+}
+
+html{
+    background-color: #00ffbf;
+}
+
+img{
+    display: block;
+    margin: 10px 20px;
+}
